@@ -152,7 +152,6 @@ No known bugs at this time.
 
 ###### Version 3
 
-- Balogun Murtadho - [Github](https://github.com/Cashkid500) 
 - Boniface Odinakachi - [Github](https://github.com/Benitex44) 
 
 ## License
